@@ -6,7 +6,7 @@ on:
       DEVICE_IMG:
         description: '(.img) file link'
         required: true
-        default: 'https://dumps.tadiphone.dev/dumps/samsung/a05s/-/raw/a05snsdxx-user-14-UP1A.231005.007-A057FXXS5CXH9-release-keys/recovery.img'
+        default: 'https://gitlab.com/SharpTheNightmare/test/-/raw/main/recovery.img'
       DEVICE_BRANCH:
         description: 'your device branch name (Optional)'
         required: true
