@@ -18,7 +18,7 @@ on:
       EMPTY_REPO:
         description: 'your empty repo name on github (Optional)'
         required: true
-        default: 'android_device_samsung_a05s.git'
+        default: 'android_device_samsung_gts8pwifi.git'
       COMMIT_MESSAGE:
         description: 'your commit message (Optional)'
         required: true
